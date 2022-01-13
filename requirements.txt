@@ -16,7 +16,7 @@ inflect==0.2.5
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
-Pillow==8.1.1
+Pillow==9.0.0
 pokepy==0.6.0
 python-dateutil==2.8.1
 python-dotenv==0.13.0
